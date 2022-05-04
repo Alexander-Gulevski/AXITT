@@ -1,3 +1,2 @@
 # AXITT
-another_initial_project
-https://xolod1501.github.io/AXITT/
+Look at my project: https://alexander-gulevski.github.io/AXITT/
